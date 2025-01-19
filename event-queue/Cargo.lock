@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "a-epoll"
+name = "event-queue"
 version = "0.1.0"
